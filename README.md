@@ -4,5 +4,5 @@
 
 # Geo.
 
-- [Countries](https://github.com/OSW3/data/tree/geo/countries)
-- [Addresses format](https://github.com/OSW3/data/tree/geo/addresses-format)
+- [List of countries with ISO code](https://github.com/OSW3/data/tree/geo/countries) 
+- [Addresses format template by country](https://github.com/OSW3/data/tree/geo/addresses-format)
