@@ -1,0 +1,1002 @@
+[
+    {
+        "longname": "Abbaye",
+        "shortname": ""
+    },
+    {
+        "longname": "Agglomération",
+        "shortname": ""
+    },
+    {
+        "longname": "Aire",
+        "shortname": ""
+    },
+    {
+        "longname": "Aires",
+        "shortname": ""
+    },
+    {
+        "longname": "Allée",
+        "shortname": ""
+    },
+    {
+        "longname": "Allées",
+        "shortname": ""
+    },
+    {
+        "longname": "Ancien chemin",
+        "shortname": ""
+    },
+    {
+        "longname": "Ancienne route",
+        "shortname": ""
+    },
+    {
+        "longname": "Anciennes routes",
+        "shortname": ""
+    },
+    {
+        "longname": "Anciens chemins",
+        "shortname": ""
+    },
+    {
+        "longname": "Anse",
+        "shortname": ""
+    },
+    {
+        "longname": "Arcade",
+        "shortname": ""
+    },
+    {
+        "longname": "Arcades",
+        "shortname": ""
+    },
+    {
+        "longname": "Autoroute",
+        "shortname": ""
+    },
+    {
+        "longname": "Avenue",
+        "shortname": ""
+    },
+    {
+        "longname": "Barriere",
+        "shortname": ""
+    },
+    {
+        "longname": "Barrieres",
+        "shortname": ""
+    },
+    {
+        "longname": "Bas chemin",
+        "shortname": ""
+    },
+    {
+        "longname": "Bastide",
+        "shortname": ""
+    },
+    {
+        "longname": "Bastion",
+        "shortname": ""
+    },
+    {
+        "longname": "Beguinage",
+        "shortname": ""
+    },
+    {
+        "longname": "Béguinages",
+        "shortname": ""
+    },
+    {
+        "longname": "Berge",
+        "shortname": ""
+    },
+    {
+        "longname": "Berges",
+        "shortname": ""
+    },
+    {
+        "longname": "Bois",
+        "shortname": ""
+    },
+    {
+        "longname": "Boucle",
+        "shortname": ""
+    },
+    {
+        "longname": "Boulevard",
+        "shortname": ""
+    },
+    {
+        "longname": "Bourg",
+        "shortname": ""
+    },
+    {
+        "longname": "Butte",
+        "shortname": ""
+    },
+    {
+        "longname": "Cale",
+        "shortname": ""
+    },
+    {
+        "longname": "Camp",
+        "shortname": ""
+    },
+    {
+        "longname": "Campagne",
+        "shortname": ""
+    },
+    {
+        "longname": "Camping",
+        "shortname": ""
+    },
+    {
+        "longname": "Carre",
+        "shortname": ""
+    },
+    {
+        "longname": "Carreau",
+        "shortname": ""
+    },
+    {
+        "longname": "Carrefour",
+        "shortname": ""
+    },
+    {
+        "longname": "Carrière",
+        "shortname": ""
+    },
+    {
+        "longname": "Carrières",
+        "shortname": ""
+    },
+    {
+        "longname": "Castel",
+        "shortname": ""
+    },
+    {
+        "longname": "Cavée",
+        "shortname": ""
+    },
+    {
+        "longname": "Central",
+        "shortname": ""
+    },
+    {
+        "longname": "Centre",
+        "shortname": ""
+    },
+    {
+        "longname": "Centre commercial",
+        "shortname": ""
+    },
+    {
+        "longname": "Chalet",
+        "shortname": ""
+    },
+    {
+        "longname": "Chapelle",
+        "shortname": ""
+    },
+    {
+        "longname": "Charmille",
+        "shortname": ""
+    },
+    {
+        "longname": "Château",
+        "shortname": ""
+    },
+    {
+        "longname": "Chaussée",
+        "shortname": ""
+    },
+    {
+        "longname": "Chaussées",
+        "shortname": ""
+    },
+    {
+        "longname": "Chemin",
+        "shortname": ""
+    },
+    {
+        "longname": "Chemin vicinal",
+        "shortname": ""
+    },
+    {
+        "longname": "Cheminement",
+        "shortname": ""
+    },
+    {
+        "longname": "Cheminements",
+        "shortname": ""
+    },
+    {
+        "longname": "Chemins",
+        "shortname": ""
+    },
+    {
+        "longname": "Chemins vicinaux",
+        "shortname": ""
+    },
+    {
+        "longname": "Chez",
+        "shortname": ""
+    },
+    {
+        "longname": "Cite",
+        "shortname": ""
+    },
+    {
+        "longname": "Cites",
+        "shortname": ""
+    },
+    {
+        "longname": "Cloître",
+        "shortname": ""
+    },
+    {
+        "longname": "Clos",
+        "shortname": ""
+    },
+    {
+        "longname": "Col",
+        "shortname": ""
+    },
+    {
+        "longname": "Colline",
+        "shortname": ""
+    },
+    {
+        "longname": "Collines",
+        "shortname": ""
+    },
+    {
+        "longname": "Contour",
+        "shortname": ""
+    },
+    {
+        "longname": "Corniche",
+        "shortname": ""
+    },
+    {
+        "longname": "Corniches",
+        "shortname": ""
+    },
+    {
+        "longname": "Cote",
+        "shortname": ""
+    },
+    {
+        "longname": "Côteau",
+        "shortname": ""
+    },
+    {
+        "longname": "Cottage",
+        "shortname": ""
+    },
+    {
+        "longname": "Cottages",
+        "shortname": ""
+    },
+    {
+        "longname": "Cour",
+        "shortname": ""
+    },
+    {
+        "longname": "Cours",
+        "shortname": ""
+    },
+    {
+        "longname": "Darse",
+        "shortname": ""
+    },
+    {
+        "longname": "Degré",
+        "shortname": ""
+    },
+    {
+        "longname": "Degrés",
+        "shortname": ""
+    },
+    {
+        "longname": "Descente",
+        "shortname": ""
+    },
+    {
+        "longname": "Descentes",
+        "shortname": ""
+    },
+    {
+        "longname": "Digue",
+        "shortname": ""
+    },
+    {
+        "longname": "Digues",
+        "shortname": ""
+    },
+    {
+        "longname": "Domaine",
+        "shortname": ""
+    },
+    {
+        "longname": "Domaines",
+        "shortname": ""
+    },
+    {
+        "longname": "écluse",
+        "shortname": ""
+    },
+    {
+        "longname": "écluses",
+        "shortname": ""
+    },
+    {
+        "longname": "église",
+        "shortname": ""
+    },
+    {
+        "longname": "Enceinte",
+        "shortname": ""
+    },
+    {
+        "longname": "Enclave",
+        "shortname": ""
+    },
+    {
+        "longname": "Enclos",
+        "shortname": ""
+    },
+    {
+        "longname": "Escalier",
+        "shortname": ""
+    },
+    {
+        "longname": "Escaliers",
+        "shortname": ""
+    },
+    {
+        "longname": "Espace",
+        "shortname": ""
+    },
+    {
+        "longname": "Esplanade",
+        "shortname": ""
+    },
+    {
+        "longname": "Esplanades",
+        "shortname": ""
+    },
+    {
+        "longname": "étang",
+        "shortname": ""
+    },
+    {
+        "longname": "Faubourg",
+        "shortname": ""
+    },
+    {
+        "longname": "Ferme",
+        "shortname": ""
+    },
+    {
+        "longname": "Fermes",
+        "shortname": ""
+    },
+    {
+        "longname": "Fontaine",
+        "shortname": ""
+    },
+    {
+        "longname": "Fort",
+        "shortname": ""
+    },
+    {
+        "longname": "Forum",
+        "shortname": ""
+    },
+    {
+        "longname": "Fosse",
+        "shortname": ""
+    },
+    {
+        "longname": "Fosses",
+        "shortname": ""
+    },
+    {
+        "longname": "Foyer",
+        "shortname": ""
+    },
+    {
+        "longname": "Galerie",
+        "shortname": ""
+    },
+    {
+        "longname": "Galeries",
+        "shortname": ""
+    },
+    {
+        "longname": "Gare",
+        "shortname": ""
+    },
+    {
+        "longname": "Garenne",
+        "shortname": ""
+    },
+    {
+        "longname": "Grand boulevard",
+        "shortname": ""
+    },
+    {
+        "longname": "Grand ensemble",
+        "shortname": ""
+    },
+    {
+        "longname": "Grand rue",
+        "shortname": ""
+    },
+    {
+        "longname": "Grande rue",
+        "shortname": ""
+    },
+    {
+        "longname": "Grandes rues",
+        "shortname": ""
+    },
+    {
+        "longname": "Grands ensembles",
+        "shortname": ""
+    },
+    {
+        "longname": "Grille",
+        "shortname": ""
+    },
+    {
+        "longname": "Grimpette",
+        "shortname": ""
+    },
+    {
+        "longname": "Groupe",
+        "shortname": ""
+    },
+    {
+        "longname": "Groupement",
+        "shortname": ""
+    },
+    {
+        "longname": "Groupes",
+        "shortname": ""
+    },
+    {
+        "longname": "Halle",
+        "shortname": ""
+    },
+    {
+        "longname": "Halles",
+        "shortname": ""
+    },
+    {
+        "longname": "Hameau",
+        "shortname": ""
+    },
+    {
+        "longname": "Hameaux",
+        "shortname": ""
+    },
+    {
+        "longname": "Haut chemin",
+        "shortname": ""
+    },
+    {
+        "longname": "Hauts chemins",
+        "shortname": ""
+    },
+    {
+        "longname": "Hippodrome",
+        "shortname": ""
+    },
+    {
+        "longname": "Hlm",
+        "shortname": ""
+    },
+    {
+        "longname": "île",
+        "shortname": ""
+    },
+    {
+        "longname": "Immeuble",
+        "shortname": ""
+    },
+    {
+        "longname": "Immeubles",
+        "shortname": ""
+    },
+    {
+        "longname": "Impasse",
+        "shortname": ""
+    },
+    {
+        "longname": "Impasses",
+        "shortname": ""
+    },
+    {
+        "longname": "Jardin",
+        "shortname": ""
+    },
+    {
+        "longname": "Jardins",
+        "shortname": ""
+    },
+    {
+        "longname": "Jetee",
+        "shortname": ""
+    },
+    {
+        "longname": "Jetees",
+        "shortname": ""
+    },
+    {
+        "longname": "Levée",
+        "shortname": ""
+    },
+    {
+        "longname": "Lieu dit",
+        "shortname": ""
+    },
+    {
+        "longname": "Lotissement",
+        "shortname": ""
+    },
+    {
+        "longname": "Lotissements",
+        "shortname": ""
+    },
+    {
+        "longname": "Mail",
+        "shortname": ""
+    },
+    {
+        "longname": "Maison forestière",
+        "shortname": ""
+    },
+    {
+        "longname": "Manoir",
+        "shortname": ""
+    },
+    {
+        "longname": "Marche",
+        "shortname": ""
+    },
+    {
+        "longname": "Marches",
+        "shortname": ""
+    },
+    {
+        "longname": "Mas",
+        "shortname": ""
+    },
+    {
+        "longname": "Métro",
+        "shortname": ""
+    },
+    {
+        "longname": "Montée",
+        "shortname": ""
+    },
+    {
+        "longname": "Montees",
+        "shortname": ""
+    },
+    {
+        "longname": "Moulin",
+        "shortname": ""
+    },
+    {
+        "longname": "Moulins",
+        "shortname": ""
+    },
+    {
+        "longname": "Musée",
+        "shortname": ""
+    },
+    {
+        "longname": "Nouvelle route",
+        "shortname": ""
+    },
+    {
+        "longname": "Palais",
+        "shortname": ""
+    },
+    {
+        "longname": "Parc",
+        "shortname": ""
+    },
+    {
+        "longname": "Parcs",
+        "shortname": ""
+    },
+    {
+        "longname": "Parking",
+        "shortname": ""
+    },
+    {
+        "longname": "Parvis",
+        "shortname": ""
+    },
+    {
+        "longname": "Passage",
+        "shortname": ""
+    },
+    {
+        "longname": "Passage à niveau",
+        "shortname": ""
+    },
+    {
+        "longname": "Passe",
+        "shortname": ""
+    },
+    {
+        "longname": "Passerelle",
+        "shortname": ""
+    },
+    {
+        "longname": "Passerelles",
+        "shortname": ""
+    },
+    {
+        "longname": "Passes",
+        "shortname": ""
+    },
+    {
+        "longname": "Patio",
+        "shortname": ""
+    },
+    {
+        "longname": "Pavillon",
+        "shortname": ""
+    },
+    {
+        "longname": "Pavillons",
+        "shortname": ""
+    },
+    {
+        "longname": "Péripherique",
+        "shortname": ""
+    },
+    {
+        "longname": "Péristyle",
+        "shortname": ""
+    },
+    {
+        "longname": "Petit chemin",
+        "shortname": ""
+    },
+    {
+        "longname": "Petite allée",
+        "shortname": ""
+    },
+    {
+        "longname": "Petite avenue",
+        "shortname": ""
+    },
+    {
+        "longname": "Petite impasse",
+        "shortname": ""
+    },
+    {
+        "longname": "Petite route",
+        "shortname": ""
+    },
+    {
+        "longname": "Petite rue",
+        "shortname": ""
+    },
+    {
+        "longname": "Petites allées",
+        "shortname": ""
+    },
+    {
+        "longname": "Place",
+        "shortname": ""
+    },
+    {
+        "longname": "Placis",
+        "shortname": ""
+    },
+    {
+        "longname": "Plage",
+        "shortname": ""
+    },
+    {
+        "longname": "Plages",
+        "shortname": ""
+    },
+    {
+        "longname": "Plaine",
+        "shortname": ""
+    },
+    {
+        "longname": "Plan",
+        "shortname": ""
+    },
+    {
+        "longname": "Plateau",
+        "shortname": ""
+    },
+    {
+        "longname": "Plateaux",
+        "shortname": ""
+    },
+    {
+        "longname": "Pointe",
+        "shortname": ""
+    },
+    {
+        "longname": "Pont",
+        "shortname": ""
+    },
+    {
+        "longname": "Ponts",
+        "shortname": ""
+    },
+    {
+        "longname": "Porche",
+        "shortname": ""
+    },
+    {
+        "longname": "Port",
+        "shortname": ""
+    },
+    {
+        "longname": "Porte",
+        "shortname": ""
+    },
+    {
+        "longname": "Portique",
+        "shortname": ""
+    },
+    {
+        "longname": "Portiques",
+        "shortname": ""
+    },
+    {
+        "longname": "Poterne",
+        "shortname": ""
+    },
+    {
+        "longname": "Pourtour",
+        "shortname": ""
+    },
+    {
+        "longname": "Pré",
+        "shortname": ""
+    },
+    {
+        "longname": "Presqu'île",
+        "shortname": ""
+    },
+    {
+        "longname": "Promenade",
+        "shortname": ""
+    },
+    {
+        "longname": "Quai",
+        "shortname": ""
+    },
+    {
+        "longname": "Quartier",
+        "shortname": ""
+    },
+    {
+        "longname": "Raccourci",
+        "shortname": ""
+    },
+    {
+        "longname": "Raidillon",
+        "shortname": ""
+    },
+    {
+        "longname": "Rampe",
+        "shortname": ""
+    },
+    {
+        "longname": "Rempart",
+        "shortname": ""
+    },
+    {
+        "longname": "Résidence",
+        "shortname": ""
+    },
+    {
+        "longname": "Résidences",
+        "shortname": ""
+    },
+    {
+        "longname": "Roc",
+        "shortname": ""
+    },
+    {
+        "longname": "Rocade",
+        "shortname": ""
+    },
+    {
+        "longname": "Rond point",
+        "shortname": ""
+    },
+    {
+        "longname": "Roquet",
+        "shortname": ""
+    },
+    {
+        "longname": "Rotonde",
+        "shortname": ""
+    },
+    {
+        "longname": "Route",
+        "shortname": ""
+    },
+    {
+        "longname": "Routes",
+        "shortname": ""
+    },
+    {
+        "longname": "Rue",
+        "shortname": ""
+    },
+    {
+        "longname": "Ruelle",
+        "shortname": ""
+    },
+    {
+        "longname": "Ruelles",
+        "shortname": ""
+    },
+    {
+        "longname": "Rues",
+        "shortname": ""
+    },
+    {
+        "longname": "Sente",
+        "shortname": ""
+    },
+    {
+        "longname": "Sentes",
+        "shortname": ""
+    },
+    {
+        "longname": "Sentier",
+        "shortname": ""
+    },
+    {
+        "longname": "Sentiers",
+        "shortname": ""
+    },
+    {
+        "longname": "Square",
+        "shortname": ""
+    },
+    {
+        "longname": "Stade",
+        "shortname": ""
+    },
+    {
+        "longname": "Station",
+        "shortname": ""
+    },
+    {
+        "longname": "Terrain",
+        "shortname": ""
+    },
+    {
+        "longname": "Terrasse",
+        "shortname": ""
+    },
+    {
+        "longname": "Terrasses",
+        "shortname": ""
+    },
+    {
+        "longname": "Terre plein",
+        "shortname": ""
+    },
+    {
+        "longname": "Tertre",
+        "shortname": ""
+    },
+    {
+        "longname": "Tertres",
+        "shortname": ""
+    },
+    {
+        "longname": "Tour",
+        "shortname": ""
+    },
+    {
+        "longname": "Traverse",
+        "shortname": ""
+    },
+    {
+        "longname": "Val",
+        "shortname": ""
+    },
+    {
+        "longname": "Vallée",
+        "shortname": ""
+    },
+    {
+        "longname": "Vallon",
+        "shortname": ""
+    },
+    {
+        "longname": "Venelle",
+        "shortname": ""
+    },
+    {
+        "longname": "Venelles",
+        "shortname": ""
+    },
+    {
+        "longname": "Via",
+        "shortname": ""
+    },
+    {
+        "longname": "Vieille route",
+        "shortname": ""
+    },
+    {
+        "longname": "Vieux chemin",
+        "shortname": ""
+    },
+    {
+        "longname": "Villa",
+        "shortname": ""
+    },
+    {
+        "longname": "Village",
+        "shortname": ""
+    },
+    {
+        "longname": "Villages",
+        "shortname": ""
+    },
+    {
+        "longname": "Villas",
+        "shortname": ""
+    },
+    {
+        "longname": "Voie",
+        "shortname": ""
+    },
+    {
+        "longname": "Voies",
+        "shortname": ""
+    },
+    {
+        "longname": "Zone",
+        "shortname": ""
+    },
+    {
+        "longname": "Zone industrielle",
+        "shortname": ""
+    },
+    {
+        "longname": "Zone à urbaniser en priorité",
+        "shortname": ""
+    },
+    {
+        "longname": "Zone artisanale",
+        "shortname": ""
+    },
+    {
+        "longname": "Zone d'activité",
+        "shortname": ""
+    },
+    {
+        "longname": "Zone d'amenagement concerté",
+        "shortname": ""
+    },
+    {
+        "longname": "Zone d'amenagement differé",
+        "shortname": ""
+    }
+]

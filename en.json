@@ -1,0 +1,98 @@
+[
+    {
+        "longname": "Avenue",
+        "shortname": "Ave"
+    },
+    {
+        "longname": "Boulevard",
+        "shortname": "Blvd"
+    },
+    {
+        "longname": "Broadway",
+        "shortname": "Bdwy"
+    },
+    {
+        "longname": "Circus",
+        "shortname": "Cir"
+    },
+    {
+        "longname": "Close",
+        "shortname": "Cl"
+    },
+    {
+        "longname": "Court",
+        "shortname": "Ct"
+    },
+    {
+        "longname": "Crescent",
+        "shortname": "Cr"
+    },
+    {
+        "longname": "Drive",
+        "shortname": "Dr"
+    },
+    {
+        "longname": "Garden",
+        "shortname": "Gdn"
+    },
+    {
+        "longname": "Gardens",
+        "shortname": "Gdns"
+    },
+    {
+        "longname": "Green",
+        "shortname": "Gn"
+    },
+    {
+        "longname": "Grove",
+        "shortname": "Gr"
+    },
+    {
+        "longname": "Junction (as in Motorway Jxx)",
+        "shortname": "J"
+    },
+    {
+        "longname": "Lane",
+        "shortname": "Ln"
+    },
+    {
+        "longname": "Mount",
+        "shortname": "Mt"
+    },
+    {
+        "longname": "Place",
+        "shortname": "Pl"
+    },
+    {
+        "longname": "Park",
+        "shortname": "Pk"
+    },
+    {
+        "longname": "Ridge",
+        "shortname": "Rdg"
+    },
+    {
+        "longname": "Road",
+        "shortname": "Rd"
+    },
+    {
+        "longname": "Saint",
+        "shortname": "St."
+    },
+    {
+        "longname": "Square",
+        "shortname": "Sq"
+    },
+    {
+        "longname": "Street",
+        "shortname": "St"
+    },
+    {
+        "longname": "Terrace",
+        "shortname": "Ter"
+    },
+    {
+        "longname": "Valley",
+        "shortname": "Val"
+    }
+]
